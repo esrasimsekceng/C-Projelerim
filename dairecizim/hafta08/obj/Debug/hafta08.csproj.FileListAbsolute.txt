@@ -1,0 +1,10 @@
+C:\Users\ESRA ŞİMŞEK\source\repos\hafta08\hafta08\obj\Debug\hafta08.csproj.AssemblyReference.cache
+C:\Users\ESRA ŞİMŞEK\source\repos\hafta08\hafta08\obj\Debug\hafta08.Form1.resources
+C:\Users\ESRA ŞİMŞEK\source\repos\hafta08\hafta08\obj\Debug\hafta08.Properties.Resources.resources
+C:\Users\ESRA ŞİMŞEK\source\repos\hafta08\hafta08\obj\Debug\hafta08.csproj.GenerateResource.cache
+C:\Users\ESRA ŞİMŞEK\source\repos\hafta08\hafta08\obj\Debug\hafta08.csproj.CoreCompileInputs.cache
+C:\Users\ESRA ŞİMŞEK\source\repos\hafta08\hafta08\bin\Debug\hafta08.exe.config
+C:\Users\ESRA ŞİMŞEK\source\repos\hafta08\hafta08\bin\Debug\hafta08.exe
+C:\Users\ESRA ŞİMŞEK\source\repos\hafta08\hafta08\bin\Debug\hafta08.pdb
+C:\Users\ESRA ŞİMŞEK\source\repos\hafta08\hafta08\obj\Debug\hafta08.exe
+C:\Users\ESRA ŞİMŞEK\source\repos\hafta08\hafta08\obj\Debug\hafta08.pdb
